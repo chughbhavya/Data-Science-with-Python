@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+
+#Face Analysis file
+haarcascade_eye.xml
+haarcascade_frontalface_default.xml
+haarcascade_smile.xml
+iphonex.png
+output.avi
+output.mp4
+
+#This file is for project.ipynb
+tsla.csv
+ford.csv
+general.csv
